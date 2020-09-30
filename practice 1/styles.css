@@ -6,7 +6,7 @@ body {
 	background: #f8f1e5;
 }
 
-.image-viewer__container {
+.music-player_container {
 	height: 100%;
 	display: flex;
 	flex-direction: column;
